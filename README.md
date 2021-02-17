@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help on Career Guidence.
 - 💬 Ask me about my work,hobbies.
 - 📫 Drop hi @https://www.linkedin.com/in/saksham-singh-/
-- 😄 Pronouns: wayiam.
 - ⚡ Fun fact: I search for meaning and purpose, even in small things.
+
 
