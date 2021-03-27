@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on BlinkerApp.
 - 🌱 I’m currently learning Data Structures and Algorithm.
-- 👯 I’m looking to collaborate on Open source projects.
-- 🤔 I’m looking for Career Guidence.
+- 👯 I’m looking to contribute in Open source projects.
 - 💬 Ask me about my work,hobbies.
 - 📫 Drop hi @https://www.linkedin.com/in/saksham-singh-/
 - ⚡ Fun fact: I search for meaning and purpose, even in small things.
