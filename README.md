@@ -1,10 +1,9 @@
  Hi there 👋
 
-- 🔭 I’m currently working on BlinkerApp.
-- 🌱 I’m currently learning Data Structures and Algorithm.
-- 👯 I’m looking to contribute in Open source projects.
-- 💬 Ask me about my work,hobbies.
-- 📫 Drop hi @https://www.linkedin.com/in/saksham-singh-/.
+- 🔭 I’m currently working as Software Developer at Infosys.
+- 🌱 This is my Space which has all my hobby projects.
+- 👯 Have a look at my Portfolio https://wayiam.github
+- 📫 Drop hi @https://www.linkedin.com/in/saksham-singh-/
 - ⚡ Fun fact: Big fan of 🐶🐕.
 
 
