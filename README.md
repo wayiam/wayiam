@@ -1,9 +1,10 @@
- Hi there 👋
+Saksham Singh
 
-- 🔭 I’m currently working as Software Developer at Infosys.
-- 🌱 This is my Space which has all my hobby projects.
-- 👯 Have a look at my Portfolio https://wayiam.github
-- 📫 Drop hi @https://www.linkedin.com/in/saksham-singh-/
-- ⚡ Fun fact: Big fan of 🐶🐕.
+I work with software.
+Interested in how things work under the hood.
 
+This GitHub is mostly experiments and side projects.
 
+[site](https://wayiam.github.io)  
+[linkedin](https://www.linkedin.com/in/saksham-singh-/)  
+[x](https://x.com/heyiamsaksham)
